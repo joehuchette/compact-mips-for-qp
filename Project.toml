@@ -1,0 +1,16 @@
+name = "MIPforQP"
+uuid = "5f347357-a84a-4272-bbb3-bc5c7d61755a"
+repo = "https://github.com/joehuchette/compact-mips-for-qp"
+version = "1.0.0"
+
+[deps]
+BARON = "2e2ca445-9e14-5b13-8677-4410f177f82b"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Gurobi = "2e9cd046-0924-5485-92f1-d5272153d98b"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MathOptInterface = "b8f27783-ece8-5eb3-8dc8-9495eed66fee"
+Mosek = "6405355b-0ac2-5fba-af84-adbd65488c0e"
+MosekTools = "1ec41992-ff65-5c91-ac43-2df89e9693a4"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
